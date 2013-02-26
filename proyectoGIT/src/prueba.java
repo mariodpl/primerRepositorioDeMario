@@ -11,6 +11,11 @@ public class prueba {
 		return this.nombre;
 	}
 	
+	public String getApellido()
+	{
+		return this.apellido;
+	}
+	
 	/**
 	 * Setter para el nombre 
 	 */
