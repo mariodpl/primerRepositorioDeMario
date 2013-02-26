@@ -6,7 +6,7 @@ public class prueba {
 	{
 		return this.nombre;
 	}
-	
+	// loa que se	qw fq
 	public void setNombre(String nombre)
 	{
 		this.nombre = nombre;
