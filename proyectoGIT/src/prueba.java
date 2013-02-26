@@ -11,6 +11,9 @@ public class prueba {
 		return this.nombre;
 	}
 	
+	/**
+	 * Getter para el apellido
+	 */
 	public String getApellido()
 	{
 		return this.apellido;
