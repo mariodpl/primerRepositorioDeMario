@@ -1,6 +1,7 @@
 
 public class prueba {
 	String nombre;
+	String apellido;
 	
 	/**
 	 * Getter para el nombre
