@@ -2,6 +2,7 @@
 public class prueba {
 	String nombre;
 	String apellido;
+	String apellido2;
 	
 	/**
 	 * Getter para el nombre
