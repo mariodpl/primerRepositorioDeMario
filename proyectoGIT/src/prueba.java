@@ -4,6 +4,9 @@ public class prueba {
 	String apellido;
 	int edad;
 	
+	/**
+	 * Constructor
+	 */
 	public prueba(String nombre, String apellido, int edad)
 	{
 		this.nombre = nombre;
