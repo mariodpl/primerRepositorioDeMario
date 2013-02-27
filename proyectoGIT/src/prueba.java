@@ -26,6 +26,10 @@ public class prueba {
 	{
 		this.nombre = nombre;
 	}
+	
+	/**
+	 * Setter para el apellido
+	 */
 	public void setApellido(String apellido)
 	{
 		this.apellido = apellido;
