@@ -26,4 +26,8 @@ public class prueba {
 	{
 		this.nombre = nombre;
 	}
+	public void setApellido(String apellido)
+	{
+		this.apellido = apellido;
+	}
 }
